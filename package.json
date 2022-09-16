@@ -8,15 +8,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^5.3.3",
     "autoprefixer": "^10.4.11",
     "nuxt": "3.0.0-rc.10",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   },
   "dependencies": {
-    "@intlify/nuxt3": "^0.2.4",
-    "@pinia/nuxt": "^0.4.2",
-    "@vueuse/core": "^9.2.0"
+    "vue-i18n": "^9.2.2"
   }
 }
