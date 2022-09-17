@@ -1,4 +1,11 @@
 {
+    "header": {
+        "logo": "SLIQ.APP",
+        "panel": "Panel",
+        "support": "Support",
+        "faq": "FAQ",
+        "terms&policy": "Terms & Policy"
+    },
     "index": {
         "title": "Home",
         "welcome": "Welcome!"

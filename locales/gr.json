@@ -1,4 +1,11 @@
 {
+    "header": {
+        "logo": "SLIQ.APP",
+        "panel": "Πίνακας",
+        "support": "Υποστήριξη",
+        "faq": "FAQ",
+        "terms&policy": "Όροι & Πολιτική"
+    },
     "index": {
         "title": "ΑΡΧΙΚΗ",
         "welcome": "Καλώς ήρθατε!"
